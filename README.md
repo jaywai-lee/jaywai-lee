@@ -7,15 +7,18 @@
 ### 🛠 Tech Stack
 
 **Frontend**
+<br/>
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 **State Management & Data Fetching**
+<br/>
 ![Tanstack Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactQuery&logoColor=white)
 
 **Architecture & Patterns**
+<br/>
 `Feature-Sliced Design (FSD)` `Clean Architecture` `Compound Components`
 
 <br/>
