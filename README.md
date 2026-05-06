@@ -29,10 +29,10 @@
 > **기간:** 2026.03 ~ 2026.05 | **[🔗 Repo](https://github.com/jaywai-lee/team2_coworkers-rf-)** | **[🚀 배포 링크](https://coworkers-rf.vercel.app/)**
 * **소개:** 팀원들과 일정을 공유할 수 있는 칸반보드 및 커뮤니티 기반 협업 서비스. 배포 후 AI 자연어 입력 모듈을 도입하고 프론트엔드 아키텍처를 리팩토링하여 사용성과 유지보수성을 대폭 개선했습니다.
 * **주요 역할 & 트러블슈팅:**
-  * **[Architecture]** BFF(Backend for Frontend) 프록시 서버를 구축하여 인증(Auth) 로직 캡슐화. Compound Component 패턴을 적용해 재사용성을 고려한 공통 UI 라이브러리 설계
-  * **[UX/Accessibility]** 외부 유료 API 의존 없이 브라우저 내장 `Web Speech API`를 활용한 STT(음성 인식) 커스텀 훅을 직접 구현하여 키보드 없는 모바일 환경에서의 접근성 극대화
-  * **[AI Prompt Engineering]** AI의 일정 생성 환각(Hallucination) 현상을 제어하기 위해 캘린더 매핑 참조표를 개선하고, 엄격한 백엔드 DTO Validation 에러를 방어하는 동적 Payload 생성 로직 구현
-  * **[Refactoring]** 복잡해진 'God Component'를 비즈니스 로직(Custom Hook)과 순수 UI 뷰 컴포넌트로 완벽하게 분리하여 관심사 분리(SoC) 달성
+  * **[Architecture]** BFF(Backend for Frontend) 프록시 서버를 구축하여 인증(Auth) 로직 캡슐화, Compound Component 패턴을 적용해 재사용성을 고려한 공통 UI 라이브러리 설계
+  * **[UX/Accessibility]** 외부 API 의존 없이 브라우저 내장 `Web Speech API`를 활용한 STT(음성 인식) 커스텀 훅을 직접 구현하여 키보드 없는 모바일 환경에서의 접근성 극대화 및 UX 향상
+  * **[AI Prompt Engineering]** AI의 일정 생성 할루시네이션 현상을 제어하기 위해 캘린더 매핑 참조표를 개선하고, 엄격한 백엔드 DTO Validation 에러를 방어하는 동적 Payload 생성 로직 구현
+  * **[Refactoring]** 복잡해진 컴포넌트를 비즈니스 로직(Custom Hook)과 순수 UI 뷰 컴포넌트로 완벽하게 분리하여 관심사 분리(SoC) 달성
 
 <br/>
 
