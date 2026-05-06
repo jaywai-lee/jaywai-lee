@@ -36,13 +36,6 @@
 
 <br/>
 
-### 📊 GitHub Stats
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=본인깃허브아이디&show_icons=true&theme=transparent&hide_border=true" width="400" />
-</div>
-
-<br/>
-
 ### 📫 Contact
 - **Email:** [jylee2670@gmail.com](mailto:jylee2670@gmail.com)
 - **Resume:** [노션 이력서](https://www.notion.so/Frontend-Developer-Resume-c16b13631a12820e8f4e0154c55af300?source=copy_link)
