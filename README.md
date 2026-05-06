@@ -26,7 +26,7 @@
 ### 🚀 Projects
 
 #### 1. Coworkers-rf (협업 태스크 관리 플랫폼 및 AI 모듈 고도화)
-> **기간:** 2025.10 ~ 2026.05 | **[🔗 Repo](https://github.com/jaywai-lee/team2_coworkers-rf-)** | **[🚀 배포 링크](https://coworkers-rf.vercel.app/)**
+> **기간:** 2026.03 ~ 2026.05 | **[🔗 Repo](https://github.com/jaywai-lee/team2_coworkers-rf-)** | **[🚀 배포 링크](https://coworkers-rf.vercel.app/)**
 * **소개:** 팀원들과 일정을 공유할 수 있는 칸반보드 및 커뮤니티 기반 협업 서비스. 배포 후 AI 자연어 입력 모듈을 도입하고 프론트엔드 아키텍처를 리팩토링하여 사용성과 유지보수성을 대폭 개선했습니다.
 * **주요 역할 & 트러블슈팅:**
   * **[Architecture]** BFF(Backend for Frontend) 프록시 서버를 구축하여 인증(Auth) 로직 캡슐화. Compound Component 패턴을 적용해 재사용성을 고려한 공통 UI 라이브러리 설계
